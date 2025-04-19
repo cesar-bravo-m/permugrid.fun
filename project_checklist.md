@@ -114,9 +114,8 @@
 
 ## 🌐 Phase 6: Domain & Deployment
 
-- [ ] **Domain Purchased**  
-  _Provider:_  
-  _Domain:_  
+- [X] **Domain Purchased**  
+  permugrid.fun
 
 - [ ] **DNS Configured**
 
